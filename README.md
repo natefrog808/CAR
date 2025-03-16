@@ -4,7 +4,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 
-## 🧠 A Kantian Approach to Artificial Intelligence (Now with 100% Less Existential Dread—Maybe)
+## 🧠 A Kantian Approach to Artificial Intelligence 
+(Now with 100% Less Existential Dread—Maybe)
 
 The **Critique of Artificial Reason (CAR)** is a TypeScript framework that applies Immanuel Kant's philosophical principles to artificial intelligence. Just as Kant's *Critique of Pure Reason* examined the limits and structures of human cognition (and baffled readers for centuries), CAR explores the boundaries, capabilities, and ethical dimensions of artificial reasoning. Warning: May cause mild existential crises in both humans and machines alike!
 
