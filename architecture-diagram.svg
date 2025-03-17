@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" />
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Critique of Artificial Reason (CAR) Framework
+  </text>
+  <text x="400" y="70" font-family="Arial" font-size="16" text-anchor="middle" fill="#666">
+    A Kantian Approach to Artificial Intelligence
+  </text>
+  
+  <!-- Main Framework Layers -->
+  <g id="framework-layers">
+    <!-- Layer Backgrounds -->
+    <rect x="100" y="110" width="600" height="80" rx="10" fill="#d1e7dd" stroke="#20c997" stroke-width="2" />
+    <rect x="100" y="210" width="600" height="80" rx="10" fill="#cfe2ff" stroke="#0d6efd" stroke-width="2" />
+    <rect x="100" y="310" width="600" height="80" rx="10" fill="#f8d7da" stroke="#dc3545" stroke-width="2" />
+    <rect x="100" y="410" width="600" height="80" rx="10" fill="#fff3cd" stroke="#ffc107" stroke-width="2" />
+    
+    <!-- Layer Labels -->
+    <text x="130" y="145" font-family="Arial" font-size="20" font-weight="bold" fill="#0f5132">Critique Layer</text>
+    <text x="130" y="170" font-family="Arial" font-size="14" fill="#0f5132">Metacognitive awareness of boundaries and limitations</text>
+    
+    <text x="130" y="245" font-family="Arial" font-size="20" font-weight="bold" fill="#084298">Reason Layer</text>
+    <text x="130" y="270" font-family="Arial" font-size="14" fill="#084298">Inference, judgment, and ethical decision-making</text>
+    
+    <text x="130" y="345" font-family="Arial" font-size="20" font-weight="bold" fill="#842029">Understanding Layer</text>
+    <text x="130" y="370" font-family="Arial" font-size="14" fill="#842029">Categories, concepts, and structured representations</text>
+    
+    <text x="130" y="445" font-family="Arial" font-size="20" font-weight="bold" fill="#664d03">Sensibility Layer</text>
+    <text x="130" y="470" font-family="Arial" font-size="14" fill="#664d03">Raw data processing and initial representations</text>
+  </g>
+  
+  <!-- Schematism Bridge -->
+  <g id="schematism">
+    <rect x="250" y="510" width="300" height="50" rx="10" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" />
+    <text x="400" y="540" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">Schematism Bridge</text>
+    
+    <!-- Connection lines -->
+    <line x1="400" y1="510" x2="400" y2="490" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5" />
+    
+    <!-- Connection arrows to all layers -->
+    <line x1="400" y1="490" x2="150" y2="450" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5" />
+    <line x1="400" y1="490" x2="150" y2="350" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5" />
+    <line x1="400" y1="490" x2="150" y2="250" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5" />
+    <line x1="400" y1="490" x2="150" y2="150" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5" />
+  </g>
+  
+  <!-- Categorical Imperative -->
+  <g id="categorical-imperative">
+    <ellipse cx="670" y="200" rx="80" ry="120" fill="#f1f1f1" stroke="#343a40" stroke-width="2" />
+    <text x="670" y="130" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#343a40">Categorical</text>
+    <text x="670" y="150" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#343a40">Imperative</text>
+    
+    <text x="670" y="190" font-family="Arial" font-size="12" text-anchor="middle" fill="#343a40">Universal Law</text>
+    <line x1="630" y1="200" x2="710" y2="200" stroke="#343a40" stroke-width="1" />
+    
+    <text x="670" y="230" font-family="Arial" font-size="12" text-anchor="middle" fill="#343a40">Humanity as End</text>
+    <line x1="630" y1="240" x2="710" y2="240" stroke="#343a40" stroke-width="1" />
+    
+    <text x="670" y="270" font-family="Arial" font-size="12" text-anchor="middle" fill="#343a40">Kingdom of Ends</text>
+    
+    <!-- Connection to Reason Layer -->
+    <line x1="590" y1="250" x2="550" y2="250" stroke="#343a40" stroke-width="2" stroke-dasharray="5,5" />
+  </g>
+  
+  <!-- Epistemic Boundaries -->
+  <g id="epistemic-boundaries">
+    <ellipse cx="670" y="400" rx="80" ry="100" fill="#f1f1f1" stroke="#343a40" stroke-width="2" />
+    <text x="670" y="340" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#343a40">Epistemic</text>
+    <text x="670" y="360" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#343a40">Boundaries</text>
+    
+    <text x="670" y="390" font-family="Arial" font-size="12" text-anchor="middle" fill="#343a40">Knowledge Limits</text>
+    <line x1="630" y1="400" x2="710" y2="400" stroke="#343a40" stroke-width="1" />
+    
+    <text x="670" y="430" font-family="Arial" font-size="12" text-anchor="middle" fill="#343a40">Uncertainty Types</text>
+    <line x1="630" y1="440" x2="710" y2="440" stroke="#343a40" stroke-width="1" />
+    
+    <text x="670" y="470" font-family="Arial" font-size="12" text-anchor="middle" fill="#343a40">Confidence Levels</text>
+    
+    <!-- Connection to Critique Layer -->
+    <line x1="590" y1="400" x2="550" y2="145" stroke="#343a40" stroke-width="2" stroke-dasharray="5,5" />
+  </g>
+  
+  <!-- Domain Applications -->
+  <g id="domains">
+    <rect x="100" y="160" width="100" height="30" rx="5" fill="#e9ecef" stroke="#6c757d" stroke-width="1" />
+    <text x="150" y="180" font-family="Arial" font-size="12" text-anchor="middle" fill="#495057">Healthcare</text>
+    
+    <rect x="220" y="160" width="100" height="30" rx="5" fill="#e9ecef" stroke="#6c757d" stroke-width="1" />
+    <text x="270" y="180" font-family="Arial" font-size="12" text-anchor="middle" fill="#495057">Education</text>
+    
+    <rect x="340" y="160" width="100" height="30" rx="5" fill="#f8f9fa" stroke="#198754" stroke-width="2" />
+    <text x="390" y="180" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle" fill="#198754">Governance</text>
+    
+    <rect x="460" y="160" width="100" height="30" rx="5" fill="#e9ecef" stroke="#6c757d" stroke-width="1" />
+    <text x="510" y="180" font-family="Arial" font-size="12" text-anchor="middle" fill="#495057">Ethics</text>
+  </g>
+  
+  <!-- Active Example Highlight -->
+  <g id="active-example">
+    <rect x="50" y="530" width="700" height="50" rx="5" fill="#f7f7f7" stroke="#28a745" stroke-width="2" />
+    <text x="400" y="560" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#198754">
+      Active Example: Climate Adaptation Governance
+    </text>
+    
+    <!-- Connection to Governance domain -->
+    <line x1="390" y1="530" x2="390" y2="190" stroke="#198754" stroke-width="2" stroke-dasharray="5,5" />
+  </g>
+</svg>
